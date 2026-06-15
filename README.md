@@ -21,7 +21,7 @@ Today, I am here to learn about Amazon S3 (Simple Storage Service). I want to un
 
 ### Tools and concepts
 
-Services I used were... Key concepts I learnt include...In this project, I learned how to use Amazon S3 (Simple Storage Service) to store, manage, and host website files in the cloud. I created an S3 bucket, selected the Hyderabad Region (ap-south-2), and uploaded website content, including the index.html file and the assets folder containing images, CSS, and JavaScript files.
+I learned how to use Amazon S3 (Simple Storage Service) to store, manage, and host website files in the cloud. I created an S3 bucket, selected the Hyderabad Region (ap-south-2), and uploaded website content, including the index.html file and the assets folder containing images, CSS, and JavaScript files.
 
 I also learned several important AWS concepts, including:
 
@@ -107,9 +107,7 @@ An Access Control List (ACL) is a permission mechanism in Amazon S3 that control
 
 When I visited the bucket endpoint URL, I saw my static website successfully displayed in the web browser. The index.html page loaded correctly, and all the supporting resources from the assets folder, including images, CSS styles, and JavaScript functionality, were displayed and working as expected. This confirmed that the S3 bucket was properly configured for static website hosting and that the website files were publicly accessible through the internet.
 
-### What I saw when I tested the endpoint
 
-When I first visited the bucket endpoint URL, I saw... The reason for this error was...When I visited the bucket endpoint URL, I saw my static website successfully displayed in the web browser. The index.html page loaded correctly, and all the supporting resources from the assets folder, including images, CSS styles, and JavaScript functionality, were displayed and working as expected. This confirmed that the S3 bucket was properly configured for static website hosting and that the website files were publicly accessible through the internet.
 
 
 ![Image](http://learn.nextwork.org/compassionate_red_daring_abiu/uploads/aws-host-a-website-on-s3_22ce4daf)
